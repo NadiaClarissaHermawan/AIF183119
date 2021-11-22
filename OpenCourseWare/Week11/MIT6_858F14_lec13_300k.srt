@@ -2488,56 +2488,56 @@ yang dikirim karena memiliki KC.
 
 523
 00:23:29,100 --> 00:23:31,020
-PROFESSOR: Yes, I think
-that's what's going on
+PROFESOR: Ya, menurut saya
+itulah yang sedang terjadi.
 
 524
 00:23:31,020 --> 00:23:32,960
-is that the Kerberos server
-again on some level actually
+itu server Kerberos
+lagi pada suatu level sebenarnya
 
 525
 00:23:32,960 --> 00:23:35,540
-doesn't know whether this
-is the right client or not.
+tidak tahu apakah ini
+merupakan klien yang tepat atau tidak.
 
 526
 00:23:35,540 --> 00:23:37,500
-But it thinks oh, well,
-sure, it doesn't matter
+Tapi sepertinya, oh, yah, 
+baiklah, itu tidak masalah
 
 527
 00:23:37,500 --> 00:23:38,930
-who is making this request.
+siapa yang membuat request ini.
 
 528
 00:23:38,930 --> 00:23:41,780
-I'll just send this blob
-out and the only person
+Saya hanya akan mengirimkan blob ini
+keluar dan satu-satunya orang
 
 529
 00:23:41,780 --> 00:23:44,010
-who should be able to
-make any use of this blob
+yang seharusnya dapat
+menggunakan blob ini
 
 530
 00:23:44,010 --> 00:23:48,170
-is the person that knows
-this key KC over here.
+adalah orang yang mengetahui
+kunci KC disini.
 
 531
 00:23:48,170 --> 00:23:50,432
-So that's actually kind
-of cool because the client
+Jadi sebenarnya hal itu 
+cukup keren karena klien
 
 532
 00:23:50,432 --> 00:23:51,890
-doesn't have to
-send their password
+tidak perlu
+mengirimkan password mereka
 
 533
 00:23:51,890 --> 00:23:53,790
-over the network at all.
+ke jaringan sama sekali.
 
 534
 00:23:53,790 --> 00:23:56,650
